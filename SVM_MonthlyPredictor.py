@@ -1,8 +1,10 @@
 # Added a dataset and SVM page for binary number transition practice onto machine learning page.
+# Mainpage.py can be added later, as this page would normally be called from a main menu, but is only meant for
+# practice within this particular program.
 
 # A GUI program (through Tkinter) utilizing SKLearn to predict the month a set of lottery numbers will win
 # (currently only operates for January until July, off of the dataset months I have available for the AZ Powerball
-# numbers).  Called as SVM from mainPage.py menu.
+# numbers).  (normally called as SVM from mainPage.py menu, but not currently on this particular practice page).
 
 
 # Training resource: https://www.youtube.com/watch?reload=9&v=bwZ3Qiuj3i8
